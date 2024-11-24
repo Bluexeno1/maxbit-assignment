@@ -106,6 +106,4 @@ test('Maxbit Assignment', async () => {
     } else {
         console.error('Validation failed: Cart does not match the items added.');
     }
-    // Uncomment to close the browser after test execution
-    // await browser.close();
 });
